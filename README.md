@@ -6,5 +6,10 @@ Tenho 19 anos, no momento sou graduando em Ciência da Computação na UESB. Sem
 
 Tenho experiência com a linguagem Java. Atualmente, estou me especializando em Front-End(HTLM, CSS, PHP, JavaScript), mas não pretendo em atuar somente nesse ramo da computação, tenho interesse em aprimorar minhas habilidades como Back-End também, para me tornar um desenvolvedor Full-Stack.
 
+Como habilidades pessoais, eu tenho experiência com trabalho em equipe, inglês, flexibilidade e capacidade de se adaptar com mudanças.
+
+
+
+
 
 
