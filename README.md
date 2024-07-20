@@ -4,7 +4,7 @@ Tenho 19 anos, no momento sou graduando em Ciência da Computação na UESB. Sem
 
 ## Habilidades e interesses💻
 
-Tenho experiência com a linguagem Java. Atualmente, estou me especializando em Front-End(HTLM, CSS, PHP, JavaScript). Como habilidades pessoais, eu tenho experiência com trabalho em equipe, inglês, flexibilidade e capacidade de se adaptar com mudanças.
+Tenho experiência com a linguagem Java e, atualmente, estou me especializando em Front-End(HTLM, CSS, PHP, JavaScript). Como habilidades pessoais, eu tenho experiência com trabalho em equipe, inglês, flexibilidade, capacidade de se adaptar com mudanças e habilidades de comunicação.
 
 
 
