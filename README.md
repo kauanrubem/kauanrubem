@@ -4,8 +4,7 @@ Tenho 19 anos, no momento sou graduando em Ciência da Computação na UESB. Sem
 
 ## Habilidades e interesses💻
 
-Tenho experiência com a linguagem Java e, atualmente, estou me especializando em Front-End(HTLM, CSS, PHP, JavaScript). Como habilidades pessoais, eu tenho experiência com trabalho em equipe, inglês, flexibilidade, capacidade de se adaptar com mudanças e habilidades de comunicação.
-
+Tenho domínio em HTML, CSS e JavaScript, experiência prática em desenvolvimento de aplicações web usando Angular, domínio de SQL, sólido entendimento de princípios de UI/UX, experiência com Git e GitHub, e proficiência no uso de ferramentas como Figma, trago um forte foco em inovação e otimização de processos. Sou dedicado a criar soluções visuais elegantes que proporcionem uma experiência de usabilidade excepcional, sempre buscando oportunidades para aprender e implementar as últimas tendências tecnológicas.
 
 
 
