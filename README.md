@@ -13,9 +13,6 @@ Trago um forte foco em **inovação**, **otimização de processos** e **design 
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Kauan Rubem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauanrubem&show_icons=true&theme=tokyonight)
-
 ### 💻 Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrubem&layout=compact&theme=tokyonight)
 
